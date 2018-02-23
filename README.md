@@ -8,7 +8,7 @@ To run "Personality Quiz", download the source code, open with Xcode, and run on
 
 ## Running the app
 
-![Alt text](/doc/screenshot1.png "Start of game, running on iPhone 8")
+![Alt text](/doc/screenshot3.png "Start of game, running on iPhone 8")
 ![Alt text](/doc/screenshot2.png "Answering a question, running on iPhone 8")
 
 To see what animal suits your personality the most, hit Begin and answer three personality questions. At the end, the results will be displayed and as an extra feature, a sound of your matching animal can be heard!
