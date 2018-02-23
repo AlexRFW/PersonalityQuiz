@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  IntroductionViewController.swift
 //  PersonalityQuiz
 //
 //  Created by Alex Witkamp on 22-02-18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class IntroductionViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,7 +19,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    
+    // Go back to introduction screen when Done is pressed
+    @IBAction func unwindToQuizIntroduction(segue: UIStoryboardSegue) {
+        
+    }
 }
 
