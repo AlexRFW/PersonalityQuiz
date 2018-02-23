@@ -12,7 +12,7 @@
 		A23988FE204014B3009CDBEA /* 🐰.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A23988FA204014B3009CDBEA /* 🐰.mp3 */; };
 		A23988FF204014B3009CDBEA /* 🐱.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A23988FB204014B3009CDBEA /* 🐱.mp3 */; };
 		A239890120401A99009CDBEA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A239890020401A99009CDBEA /* README.md */; };
-		A239890320401BDE009CDBEA /* doc in Resources */ = {isa = PBXBuildFile; fileRef = A239890220401BDE009CDBEA /* doc */; };
+		A239890520401EDB009CDBEA /* doc in Resources */ = {isa = PBXBuildFile; fileRef = A239890420401EDB009CDBEA /* doc */; };
 		A2589646203EF53800D86924 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2589645203EF53800D86924 /* AppDelegate.swift */; };
 		A2589648203EF53800D86924 /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2589647203EF53800D86924 /* IntroductionViewController.swift */; };
 		A258964B203EF53800D86924 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2589649203EF53800D86924 /* Main.storyboard */; };
@@ -29,7 +29,7 @@
 		A23988FA204014B3009CDBEA /* 🐰.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "🐰.mp3"; sourceTree = "<group>"; };
 		A23988FB204014B3009CDBEA /* 🐱.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "🐱.mp3"; sourceTree = "<group>"; };
 		A239890020401A99009CDBEA /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		A239890220401BDE009CDBEA /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = doc; sourceTree = "<group>"; };
+		A239890420401EDB009CDBEA /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; name = doc; path = "../../animal personality quiz/doc"; sourceTree = "<group>"; };
 		A2589642203EF53800D86924 /* PersonalityQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalityQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2589645203EF53800D86924 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2589647203EF53800D86924 /* IntroductionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionViewController.swift; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				A239890020401A99009CDBEA /* README.md */,
-				A239890220401BDE009CDBEA /* doc */,
+				A239890420401EDB009CDBEA /* doc */,
 				A2589644203EF53800D86924 /* PersonalityQuiz */,
 				A2589643203EF53800D86924 /* Products */,
 			);
@@ -150,11 +150,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A239890320401BDE009CDBEA /* doc in Resources */,
 				A23988FC204014B3009CDBEA /* 🐶.mp3 in Resources */,
 				A2589650203EF53800D86924 /* LaunchScreen.storyboard in Resources */,
 				A23988FF204014B3009CDBEA /* 🐱.mp3 in Resources */,
 				A258964D203EF53800D86924 /* Assets.xcassets in Resources */,
+				A239890520401EDB009CDBEA /* doc in Resources */,
 				A258964B203EF53800D86924 /* Main.storyboard in Resources */,
 				A23988FD204014B3009CDBEA /* 🐢.mp3 in Resources */,
 				A239890120401A99009CDBEA /* README.md in Resources */,
